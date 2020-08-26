@@ -1,1 +1,1 @@
-# World-Teacher-Day
+# World Teacher Day Challenge
