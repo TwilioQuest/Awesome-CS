@@ -24,6 +24,7 @@ Here are some example's we've **loved** from educators in our community:
 **2. Submit your activity by Friday, October 16th**
 
 **Format:** We would love for you to get creative with the format of your submission. This could be a video, an app, or anything else! 
+
 **Requirements:**
 * Tell us what programming language(s) you teach and to whom (age group or grade/level of education)
 * Share with us why and how you came up with the lesson plan
