@@ -25,13 +25,21 @@ Here are some example's we've **loved** from educators in our community:
 
 **Format:** We would love for you to get creative with the format of your submission. This could be a video, an app, or anything else! 
 
+Upon submission, you will be asked for the following information:
+* Name of activity
+* Intended level 
+* Programming concept/language taught
+* Short description
+
+This information will be used to organize the public repository of resources.
+
 **Requirements:**
 * Tell us what programming language(s) you teach and to whom (age group or grade/level of education)
 * Share with us why and how you came up with the lesson plan
 * Is this something other educators could replicate? If so, please include insructions for them. 
 * Tell us what the outcome was and why this was an especially successful activity.
 
-When you're ready to submit your work, please email Chiara with your submission at (cmassironi@twilio.com) 
+[When you're ready to submit your work, please do so here.](https://admin.typeform.com/form/wJe7bC/create) If you have any questions, please email Chiara at (cmassironi@twilio.com) 
 
 **3. Prize-giving will take place on October 27th**
 
