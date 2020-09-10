@@ -28,15 +28,17 @@ Here are some example's we've **loved** from educators in our community:
 Upon submission, you will be asked for the following information:
 * Name of activity
 * Intended level 
-* Programming concept/language taught
+* Computer Science concept/programming language taught
 * Short description
 
 This information will be used to organize the public repository of resources.
 
 **Requirements:**
-* Tell us what programming language(s) you teach and to whom (age group or grade/level of education)
 * Share with us why and how you came up with the lesson plan
-* Is this something other educators could replicate? If so, please include insructions for them. 
+* Tell us what computer science concept you teach and to whom (age group or grade/level of education)
+* Share how you incorporated distance learning
+* Did you focus on making this lesson accessible to all students?
+* Is this something other educators could replicate? 
 * Tell us what the outcome was and why this was an especially successful activity.
 
 [When you're ready to submit your work, please do so here.](https://twiliostartups.typeform.com/to/wJe7bC) 
