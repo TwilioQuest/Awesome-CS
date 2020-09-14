@@ -25,7 +25,7 @@ Here are some example's we've **loved** from educators in our community:
 
 **Format:** 
 
-Please use [this submission template](https://drive.google.com/drive/u/0/folders/17dW1KM8N32Upt4JmoFKh-ZG9ks-vkEsP) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. Please be sure to review the requirements below. 
+Please use [this submission template](https://drive.google.com/file/d/1d38vgqsO3lj9Fh92aut_odu3gwW66WWy/view?usp=sharing) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. Please be sure to review the requirements below. 
 
 We will be sharing all submissions in the [public classroom resources repository.](https://github.com/TwilioQuest/Awesome-CS/tree/master/classroom-resources)  
 
