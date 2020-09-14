@@ -5,7 +5,7 @@
 **Thank you for registering to the TwilioQuest World Teacher Day Challenge- we're so thrilled you're here, and can't wait to read your submission!**
 
 
-***After the competition, we will be creating a public repository of classroom activities which you will be able to access on GitHub. By submitting your application, you are agreeing to your activity being shared publicly.*** 
+***After the competition, we will be creating a public repository of classroom activities which you will be able to access on GitHub. By submitting your application, you are agreeing to your activity being shared in the [public classroom resources repository.](https://github.com/TwilioQuest/Awesome-CS/tree/master/classroom-resources) .*** 
 
 Here are the next steps: 
 
@@ -25,9 +25,7 @@ Here are some example's we've **loved** from educators in our community:
 
 **Format:** 
 
-Please use [this submission template](https://drive.google.com/file/d/1d38vgqsO3lj9Fh92aut_odu3gwW66WWy/view?usp=sharing) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. Please be sure to review the requirements below. 
-
-We will be sharing all submissions in the [public classroom resources repository.](https://github.com/TwilioQuest/Awesome-CS/tree/master/classroom-resources)  
+Please use [this submission template](https://drive.google.com/file/d/1d38vgqsO3lj9Fh92aut_odu3gwW66WWy/view?usp=sharing) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. **Please be sure to review the requirements below.** 
 
 **Requirements:**
 * Share with us why and how you came up with the lesson plan
