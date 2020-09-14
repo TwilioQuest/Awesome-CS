@@ -23,15 +23,11 @@ Here are some example's we've **loved** from educators in our community:
 
 **2. Submit your activity by Friday, October 16th**
 
-**Format:** We would love for you to get creative with the format of your submission. This could be a video, an app, or anything else! 
+**Format:** 
 
-Upon submission, you will be asked for the following information:
-* Name of activity
-* Intended level 
-* Computer Science concept/programming language taught
-* Short description
+Please use [this submission template](https://drive.google.com/drive/u/0/folders/17dW1KM8N32Upt4JmoFKh-ZG9ks-vkEsP) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. Please be sure to review the requirements below. 
 
-This information will be used to organize the public repository of resources.
+We will be sharing all submissions in the [public classroom resources repository.](https://github.com/TwilioQuest/Awesome-CS/tree/master/classroom-resources)  
 
 **Requirements:**
 * Share with us why and how you came up with the lesson plan
