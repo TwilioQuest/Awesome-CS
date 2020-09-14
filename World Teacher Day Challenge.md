@@ -25,15 +25,22 @@ Here are some example's we've **loved** from educators in our community:
 
 **Format:** 
 
-Please use [this submission template](https://drive.google.com/file/d/1d38vgqsO3lj9Fh92aut_odu3gwW66WWy/view?usp=sharing) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. **Please be sure to review the requirements below.** 
+We have standardised the submission format so that any teacher, anywhere in the world could pick up your lesson plan and use it in their classroom. Please use [this submission template](https://drive.google.com/file/d/1d38vgqsO3lj9Fh92aut_odu3gwW66WWy/view?usp=sharing) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. **Please be sure to review the requirements below.** 
 
-**Requirements:**
+Here are some questions you can use to get started:
 * Share with us why and how you came up with the lesson plan
 * Tell us what computer science concept you teach and to whom (age group or grade/level of education)
 * Share how you incorporated distance learning
 * Did you focus on making this lesson accessible to all students?
 * Is this something other educators could replicate? 
 * Tell us what the outcome was and why this was an especially successful activity.
+
+**How will the submission be assessed?**
+
+The submission will be assessed on these three key criteria: 
+1. Distance learning: You should highlight how your lesson plan has been created/adapted for distance learning
+2. Accessibility: Tell us how your lesson plan was created to be inclusive and equitable for all students.
+3. Fun / Engagement Factor: We want to hear why you think this lesson is particularly fun for your students!
 
 [When you're ready to submit your work, please do so here.](https://twiliostartups.typeform.com/to/wJe7bC) 
 
