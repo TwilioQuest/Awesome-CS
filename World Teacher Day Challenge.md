@@ -6,6 +6,8 @@
 
 
 ***After the competition, we will be creating a public repository of classroom activities which you will be able to access on GitHub. By submitting your application, you are agreeing to your activity being shared in the [public classroom resources repository.](https://github.com/TwilioQuest/Awesome-CS/tree/master/classroom-resources)*** 
+
+
                                           ------------------------------------------------------------
 **Here are the next steps:** 
 
@@ -14,6 +16,8 @@
 3. [Fill out this form to submit your classroom activity]((https://twiliostartups.typeform.com/to/wJe7bC)
 
 **Looking for more details? Read on below**
+
+
                                           ------------------------------------------------------------
 
 **1. Get Creative**
