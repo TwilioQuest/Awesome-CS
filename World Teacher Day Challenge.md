@@ -8,7 +8,7 @@
 ***After the competition, we will be creating a public repository of classroom activities which you will be able to access on GitHub. By submitting your application, you are agreeing to your activity being shared in the [public classroom resources repository.](https://github.com/TwilioQuest/Awesome-CS/tree/master/classroom-resources)*** 
 
 
-                                          ------------------------------------------------------------
+                                          ------------------------ **NEXT STEPS** ------------------------
 **Here are the next steps:** 
 
 1. Select your favourite CS lesson
@@ -18,7 +18,7 @@
 **Looking for more details? Read on below**
 
 
-                                          ------------------------------------------------------------
+                                         ------------------------ **MORE DETAILS** ------------------------
 
 **1. Get Creative**
 
@@ -68,7 +68,7 @@ The top 5 submissions will be rewarded with:
 * Early access to TwilioQuest for Education
 * TwilioQuest Swag box
 
-**Powered By**
+                                         ------------------------ **Powered By** ------------------------
 
 **TwilioQuest**
 
