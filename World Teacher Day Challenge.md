@@ -77,5 +77,5 @@ You might be the only computer science teacher in your school, district, or town
 
 **STEM.org**
 
-
+STEM.org Certified™ is the world’s most trusted, self-paced Science, Technology, Engineering, and Mathematics (STEM) teaching course for both certified and non-certified educators. This practical, online training program carefully studies curriculum standards and the latest in STEM pedagogy. Participants learn how expectations of program functionality are changing and what techniques can ensure success. STEM plans are then crafted to build momentum towards personal and organization-wide unifying STEM goals.
 
