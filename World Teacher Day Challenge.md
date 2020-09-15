@@ -73,7 +73,7 @@ The Computer Science Teachers Association (CSTA) understands that teaching CS is
 -Builds the largest teacher-led computer science professional development event in the world each year!
 -Provides access to exclusive discounts on courses and tools that will take your teaching practice to the next level
 
-You might be the only computer science teacher in your school, district, or town, and as a part of CSTA, we’re in this together. [Join CSTA] (www.csteachers.org) to be supported at no matter where you are in your professional journey. 
+You might be the only computer science teacher in your school, district, or town, and as a part of CSTA, we’re in this together. [Join CSTA](www.csteachers.org) to be supported at no matter where you are in your professional journey. 
 
 **STEM.org**
 
