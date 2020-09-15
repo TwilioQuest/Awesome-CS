@@ -1,19 +1,17 @@
 # World Teacher Day Challenge
-![Image of TQ_EDU](https://ci5.googleusercontent.com/proxy/d7l0lC3L9-qpResY1Wv6lvnywAc3eGuwwfUHpeGskrmEwNDJ_4UAOONEraKKJ4H4l3cxB6bQ2iJeSly6JV8nvdMhZxm8D15Ia8Cg58toXoOOSSU4WssWeKKOcf90NOcZprxozLAVIvhshcaqNh2mlGiL2WHslHFihsTlLZb0yDHInE1CHw=s0-d-e1-ft#http://cdn.mcauto-images-production.sendgrid.net/96d601d25ab47350/a540c241-b7af-419d-a776-72a5f2a3faae/600x200.png)
-
+![TwilioQuest for Education Logo](https://ci5.googleusercontent.com/proxy/d7l0lC3L9-qpResY1Wv6lvnywAc3eGuwwfUHpeGskrmEwNDJ_4UAOONEraKKJ4H4l3cxB6bQ2iJeSly6JV8nvdMhZxm8D15Ia8Cg58toXoOOSSU4WssWeKKOcf90NOcZprxozLAVIvhshcaqNh2mlGiL2WHslHFihsTlLZb0yDHInE1CHw=s0-d-e1-ft#http://cdn.mcauto-images-production.sendgrid.net/96d601d25ab47350/a540c241-b7af-419d-a776-72a5f2a3faae/600x200.png)
 
 Thank you for registering to the TwilioQuest World Teacher Day Challenge! We're so thrilled you're here, and can't wait to read your submission.
-
 
 ***After the competition, we will be creating a public repository of classroom activities which you will be able to access on GitHub. By submitting your application, you are agreeing to your activity being shared in the [public classroom resources repository.](https://github.com/TwilioQuest/Awesome-CS/tree/master/classroom-resources)*** 
    
 ## Submission Process Overview
 
-1. Select your favourite CS lesson
-2. Use [this submission template](https://drive.google.com/file/d/1koQa9dgMiWasVIprdNzo44D7BxD19fUS/view?usp=sharing) to write up your lesson plan. 
+1. Select your favourite computer science lesson that can be delivered virtually (distance learning)
+2. Use [this submission template](https://drive.google.com/file/d/1koQa9dgMiWasVIprdNzo44D7BxD19fUS/view?usp=sharing) to describe your lesson plan. 
 3. [Fill out this form to submit your classroom activity](https://twiliostartups.typeform.com/to/wJe7bC)
 
-**Looking for more details? Read on below!**
+Looking for more details? Read on below!
 
 ## Creating Your Entry for the Challenge
 
