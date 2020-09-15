@@ -13,7 +13,7 @@
 
 1. Select your favourite CS lesson
 2. Use [this submission template](https://drive.google.com/file/d/1koQa9dgMiWasVIprdNzo44D7BxD19fUS/view?usp=sharing)to write up your lesson plan. 
-3. [Fill out this form to submit your classroom activity]((https://twiliostartups.typeform.com/to/wJe7bC)
+3. [Fill out this form to submit your classroom activity](https://twiliostartups.typeform.com/to/wJe7bC)
 
 **Looking for more details? Read on below**
 
