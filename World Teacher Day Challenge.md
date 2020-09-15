@@ -2,25 +2,22 @@
 ![Image of TQ_EDU](https://ci5.googleusercontent.com/proxy/d7l0lC3L9-qpResY1Wv6lvnywAc3eGuwwfUHpeGskrmEwNDJ_4UAOONEraKKJ4H4l3cxB6bQ2iJeSly6JV8nvdMhZxm8D15Ia8Cg58toXoOOSSU4WssWeKKOcf90NOcZprxozLAVIvhshcaqNh2mlGiL2WHslHFihsTlLZb0yDHInE1CHw=s0-d-e1-ft#http://cdn.mcauto-images-production.sendgrid.net/96d601d25ab47350/a540c241-b7af-419d-a776-72a5f2a3faae/600x200.png)
 
 
-**Thank you for registering to the TwilioQuest World Teacher Day Challenge- we're so thrilled you're here, and can't wait to read your submission!**
+Thank you for registering to the TwilioQuest World Teacher Day Challenge! We're so thrilled you're here, and can't wait to read your submission.
 
 
 ***After the competition, we will be creating a public repository of classroom activities which you will be able to access on GitHub. By submitting your application, you are agreeing to your activity being shared in the [public classroom resources repository.](https://github.com/TwilioQuest/Awesome-CS/tree/master/classroom-resources)*** 
-
-
-                                          ------------------------ NEXT STEPS ------------------------
-**Here are the next steps:** 
+   
+## Submission Process Overview
 
 1. Select your favourite CS lesson
 2. Use [this submission template](https://drive.google.com/file/d/1koQa9dgMiWasVIprdNzo44D7BxD19fUS/view?usp=sharing) to write up your lesson plan. 
 3. [Fill out this form to submit your classroom activity](https://twiliostartups.typeform.com/to/wJe7bC)
 
-**Looking for more details? Read on below**
+**Looking for more details? Read on below!**
 
+## Creating Your Entry for the Challenge
 
-                                         ------------------------ MORE DETAILS ------------------------
-
-**1. Get Creative**
+### 1. Get Creative
 
 Think back to the most enjoyable Computer Science class you've taught this year, for both your students and you! Did you introduce a new programming concept in an immersive way? Did your students build something remotely? Did you encourage them to learn a concept in an innovative manner?
 
@@ -31,7 +28,7 @@ Here are some example's we've **loved** from educators in our community:
 * Flipped classroom activities for learning Python
 
 
-**2. Submit your activity by Friday, October 16th**
+### 2. Submit your activity by Friday, October 16th
 
 **Format:** 
 
@@ -56,7 +53,7 @@ The submission will be assessed on these three key criteria:
 
 If you have any questions, please email Chiara at (cmassironi@twilio.com) 
 
-**3. Prize-giving will take place on October 27th**
+### 3. Prizes Awarded Live on October 27th
 
 Join us on Twitch (www.twitch.tv/twilioquest) on October 27th at 9am PT to find out who the winners are! If you can't make it to the stream, don't worry, we will announce the winners via email on the same day. 
 
@@ -68,7 +65,9 @@ The top 5 submissions will be rewarded with:
 * Early access to TwilioQuest for Education
 * TwilioQuest Swag box
 
-                                         ------------------------ POWERED BY ------------------------
+---
+
+**The TwilioQuest World Teacher Day Challenge is powered by:**
 
 **TwilioQuest**
 
