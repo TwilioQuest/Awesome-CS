@@ -25,7 +25,7 @@ Here are some example's we've **loved** from educators in our community:
 
 **Format:** 
 
-We have standardised the submission format so that any teacher, anywhere in the world could pick up your lesson plan and use it in their classroom. Please use [this submission template](https://drive.google.com/file/d/1d38vgqsO3lj9Fh92aut_odu3gwW66WWy/view?usp=sharing) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. **Please be sure to review the requirements below.** 
+We have standardised the submission format so that any teacher, anywhere in the world could pick up your lesson plan and use it in their classroom. Please use [this submission template](https://drive.google.com/file/d/1koQa9dgMiWasVIprdNzo44D7BxD19fUS/view?usp=sharing) to submit your lesson plan. If you would like to include something else (video, app, anything else!) you can do so in the submission form. **Please be sure to review the requirements below.** 
 
 Here are some questions you can use to get started:
 * Share with us why and how you came up with the lesson plan
@@ -49,4 +49,23 @@ If you have any questions, please email Chiara at (cmassironi@twilio.com)
 **3. Prize-giving will take place on October 27th**
 
 Join us on Twitch (www.twitch.tv/twilioquest) on October 27th at 9am PT to find out who the winners are! If you can't make it to the stream, don't worry, we will announce the winners via email on the same day. 
+
+##Powered By
+
+**TwilioQuest**
+TwilioQuest is an educational video game designed to teach a new generation of developers how to change the world with code. Join a community of innovative educators creating fun and engaging computer science learning experiences for students of any age and experience level. www.twilio.com/quest
+
+**CSTA**
+The Computer Science Teachers Association (CSTA) understands that teaching CS is hard. That's why our association was created to provide a strong environment to support K-12 educators. We’re proud to have created a community that:
+-Is led by K-12 computer science teachers, and puts teacher needs at the forefront
+-Shares the latest best practices in K-12 computer science education
+-Creates local communities across the US + Canada that make sure every computer science teacher has a home
+-Builds the largest teacher-led computer science professional development event in the world each year!
+-Provides access to exclusive discounts on courses and tools that will take your teaching practice to the next level
+
+You might be the only computer science teacher in your school, district, or town, and as a part of CSTA, we’re in this together. Join CSTA to be supported at no matter where you are in your professional journey. 
+
+**STEM.org**
+
+
 
