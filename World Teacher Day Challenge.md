@@ -50,12 +50,22 @@ If you have any questions, please email Chiara at (cmassironi@twilio.com)
 
 Join us on Twitch (www.twitch.tv/twilioquest) on October 27th at 9am PT to find out who the winners are! If you can't make it to the stream, don't worry, we will announce the winners via email on the same day. 
 
-##Powered By
+**Prizes:**
+
+The top 5 submissions will be rewarded with: 
+* $4,500 cash prize (or equivalent in classroom technology)*
+* CSTA+ membership
+* Early access to TwilioQuest for Education
+* TwilioQuest Swag box
+
+**Powered By**
 
 **TwilioQuest**
-TwilioQuest is an educational video game designed to teach a new generation of developers how to change the world with code. Join a community of innovative educators creating fun and engaging computer science learning experiences for students of any age and experience level. www.twilio.com/quest
+
+TwilioQuest is an educational video game designed to teach a new generation of developers how to change the world with code. Join a community of innovative educators creating fun and engaging computer science learning experiences for students of any age and experience level. [Explore TwilioQuest today!](www.twilio.com/quest)
 
 **CSTA**
+
 The Computer Science Teachers Association (CSTA) understands that teaching CS is hard. That's why our association was created to provide a strong environment to support K-12 educators. We’re proud to have created a community that:
 -Is led by K-12 computer science teachers, and puts teacher needs at the forefront
 -Shares the latest best practices in K-12 computer science education
@@ -63,7 +73,7 @@ The Computer Science Teachers Association (CSTA) understands that teaching CS is
 -Builds the largest teacher-led computer science professional development event in the world each year!
 -Provides access to exclusive discounts on courses and tools that will take your teaching practice to the next level
 
-You might be the only computer science teacher in your school, district, or town, and as a part of CSTA, we’re in this together. Join CSTA to be supported at no matter where you are in your professional journey. 
+You might be the only computer science teacher in your school, district, or town, and as a part of CSTA, we’re in this together. [Join CSTA] (www.csteachers.org) to be supported at no matter where you are in your professional journey. 
 
 **STEM.org**
 
