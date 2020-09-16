@@ -74,11 +74,12 @@ TwilioQuest is an educational video game designed to teach a new generation of d
 **CSTA**
 
 The Computer Science Teachers Association (CSTA) understands that teaching CS is hard. That's why our association was created to provide a strong environment to support K-12 educators. We’re proud to have created a community that:
--Is led by K-12 computer science teachers, and puts teacher needs at the forefront
--Shares the latest best practices in K-12 computer science education
--Creates local communities across the US + Canada that make sure every computer science teacher has a home
--Builds the largest teacher-led computer science professional development event in the world each year!
--Provides access to exclusive discounts on courses and tools that will take your teaching practice to the next level
+
+	• Is led by K-12 computer science teachers, and puts teacher needs at the forefront
+	• Shares the latest best practices in K-12 computer science education
+	• Creates local communities across the US + Canada that make sure every computer science teacher has a home
+	• Builds the largest teacher-led computer science professional development event in the world each year!
+	• Provides access to exclusive discounts on courses and tools that will take your teaching practice to the next level
 
 You might be the only computer science teacher in your school, district, or town, and as a part of CSTA, we’re in this together. [Join CSTA](www.csteachers.org) to be supported at no matter where you are in your professional journey. 
 
