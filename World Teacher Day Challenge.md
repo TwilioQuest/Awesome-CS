@@ -95,3 +95,7 @@ Benefits for educators:
 	• Connect with a global, alumni base of STEM educators
 	• Share your accomplishment on social media
 
+**GitHub Education**
+
+Teach your students using real-world tools. Master Git and GitHub. Bring GitHub Education to your school. GitHub Education helps students, teachers, and schools access the tools and events they need to shape the next generation of software development. Get benefits for teachers: education.github.com/teachers
+
